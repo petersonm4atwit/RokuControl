@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?><apps>
+<app id="31012" type="menu" version="2.0.53">Vudu Movie &amp; TV Store</app>
+<app id="12" type="appl" version="5.0.98079430">Netflix</app>
+<app id="2285" type="appl" version="6.59.0">Hulu</app>
+<app id="291097" type="appl" version="1.20.2022040600">Disney Plus</app>
+<app id="837" type="appl" version="2.21.94005088">YouTube</app>
+<app id="13" type="appl" version="12.3.2021122417">Prime Video</app>
+<app id="123132" type="appl" version="6.5.1">Xfinity Stream Beta</app>
+<app id="61322" type="appl" version="52.10.20">HBO Max</app>
+<app id="551012" type="appl" version="9.0.105">Apple TV</app>
+<app id="187665" type="appl" version="44.6.2100000011">adult swim</app>
+<app id="46041" type="appl" version="8.24.2087">Sling TV</app>
+<app id="13842" type="appl" version="1.3.339168">VUDU</app>
+<app id="151908" type="appl" version="6.0.15">The Roku Channel</app>
+<app id="69091" type="appl" version="3.4.2">4K Spotlight</app>
+<app id="34376" type="appl" version="4.2.2022021700">ESPN</app>
+<app id="2213" type="appl" version="5.5.13">Roku Media Player</app>
+<app id="552944" type="appl" version="1.2.62">Roku Tips &amp; Tricks</app>
+<app id="111255" type="appl" version="2.2.29">The CW</app>
+<app id="95307" type="appl" version="3.46.16527">FOX Sports</app>
+<app id="11055" type="appl" version="5.6.1">Newsy</app>
+<app id="65067" type="appl" version="3.19.18">STARZ</app>
+<app id="593099" type="appl" version="3.4.21">Peacock TV</app>
+<app id="31440" type="appl" version="7.1.20220315">Paramount Plus</app>
+<app id="22297" type="appl" version="2.8.102">Spotify Music</app>\n</apps>\n

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<device-info>
+<udn>29600001-780a-1044-8058-10593269506f</udn>
+<serial-number>YH001N672856</serial-number>
+<device-id>K42061672856</device-id>
+<advertising-id>1b2a9151-00f5-521a-994f-1252aad04f2b</advertising-id>
+<vendor-name>Roku</vendor-name>
+<model-name>Roku Premiere</model-name>
+<model-number>3920X</model-number>
+<model-region>US</model-region>
+<is-tv>false</is-tv>
+<is-stick>false</is-stick>
+<ui-resolution>1080p</ui-resolution>
+<supports-ethernet>false</supports-ethernet>
+<wifi-mac>10:59:32:69:50:6f</wifi-mac>
+<wifi-driver>realtek</wifi-driver>
+<has-wifi-extender>false</has-wifi-extender>
+<has-wifi-5G-support>false</has-wifi-5G-support>
+<can-use-wifi-extender>true</can-use-wifi-extender>
+<network-type>wifi</network-type>
+<network-name>Test</network-name>
+<friendly-device-name>Roku Premiere</friendly-device-name>
+<friendly-model-name>Roku Premiere</friendly-model-name>
+<default-device-name>Roku Premiere - YH001N672856</default-device-name>
+<user-device-name>Roku Premiere</user-device-name>
+<user-device-location>Basement</user-device-location>
+<build-number>91A.50E04208A</build-number>
+<software-version>10.5.0</software-version>
+<software-build>4208</software-build>
+<secure-device>true</secure-device>
+<language>en</language>
+<country>US</country>
+<locale>en_US</locale>
+<time-zone-auto>true</time-zone-auto>
+<time-zone>US/Eastern</time-zone>
+<time-zone-name>United States/Eastern</time-zone-name>
+<time-zone-tz>America/New_York</time-zone-tz>
+<time-zone-offset>-240</time-zone-offset>
+<clock-format>12-hour</clock-format>
+<uptime>230721</uptime>
+<power-mode>PowerOn</power-mode>
+<supports-suspend>false</supports-suspend>
+<supports-find-remote>true</supports-find-remote>
+<find-remote-is-possible>false</find-remote-is-possible>
+<supports-audio-guide>true</supports-audio-guide>
+<supports-rva>true</supports-rva>
+<developer-enabled>false</developer-enabled>
+<keyed-developer-id/>
+<search-enabled>true</search-enabled>
+<search-channels-enabled>true</search-channels-enabled>
+<voice-search-enabled>true</voice-search-enabled>
+<notifications-enabled>true</notifications-enabled>
+<notifications-first-use>true</notifications-first-use>
+<supports-private-listening>true</supports-private-listening>
+<headphones-connected>false</headphones-connected>
+<supports-audio-settings>false</supports-audio-settings>
+<supports-ecs-textedit>true</supports-ecs-textedit>
+<supports-ecs-microphone>true</supports-ecs-microphone>
+<supports-wake-on-wlan>false</supports-wake-on-wlan>
+<supports-airplay>true</supports-airplay>
+<has-play-on-roku>true</has-play-on-roku>
+<has-mobile-screensaver>false</has-mobile-screensaver>
+<support-url>roku.com/support</support-url>
+<grandcentral-version>7.0.59</grandcentral-version>
+<trc-version>3.0</trc-version>
+<trc-channel-version>6.0.15</trc-channel-version>
+<davinci-version>2.8.20</davinci-version>\n</device-info>\n'
